@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+table {
+  border-collapse: collapse;
+}
+td, th {
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+}
+input, select {
+  width: 100%;
+  box-sizing: border-box;
+}
